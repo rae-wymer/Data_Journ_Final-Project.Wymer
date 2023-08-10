@@ -30,7 +30,7 @@ This document includes a breakdown of the entire SFMTA budget and shows exactly 
 
 # <h1>Data Used   
   
-  I based by data analysis off San Francisco city data through the TransBASE Dashboard. [add link] 
+  I based by data analysis off San Francisco city data through the [TransBASE Dashboard](https://transbase.sfgov.org/dashboard/dashboard.php)
   
 <h2> Analysis 1: How do bicycle collisions compare year by year? Which parties are usually at fault in these collisions?</h2>
 
@@ -49,42 +49,41 @@ Screenshot of Pivot Table: Party_1/Party at Fault
 <img width="272" alt="Screen Shot 2023-08-10 at 2 31 35 AM" src="https://github.com/rae-wymer/Data_Journ_Final-Project.Wymer/assets/140004445/51436883-0df7-413b-b341-89d5c282fd4c">
 
 
-
 <h3> 2018 </h3> 
 
    ![bfJOZ-bike-collisions-in-sf-mission-neighborhood-2018 (2)](https://github.com/rae-wymer/Data_Journ_Final-Project.Wymer/assets/140004445/8b234972-aba6-421b-bcce-35bab6165e4c)
 
-Link to data visualization
+ [Link to data visualization](https://datawrapper.dwcdn.net/bfJOZ/4/)
 
 <h3> 2019 </h3>
 
 ![oAn1F-bike-collisions-in-sf-mission-neighborhood-2019](https://github.com/rae-wymer/Data_Journ_Final-Project.Wymer/assets/140004445/1321841a-86e9-4cef-b7e1-af3efa01a66f)
 
-Link to data visualization
+ [Link to data visualization](https://datawrapper.dwcdn.net/oAn1F/1/)
 
 <h3> 2020 </h3>
 
 ![eos7S-bike-collisions-in-sf-mission-neighborhood-2020](https://github.com/rae-wymer/Data_Journ_Final-Project.Wymer/assets/140004445/3092991b-5e57-4aa5-909b-cb0b326c5178)
 
-Link to data visualization
+ [Link to data visualization](https://datawrapper.dwcdn.net/eos7S/1/)
 
 <h3> 2021 </h3>
 
 ![8nfLD-bike-collisions-in-sf-mission-neighborhood-2021](https://github.com/rae-wymer/Data_Journ_Final-Project.Wymer/assets/140004445/081d050f-a265-471b-992f-8b74cf6e3fa1)
 
-Link to data visualization
+ [Link to data visualization](https://datawrapper.dwcdn.net/8nfLD/1/)
 
 <h3> 2022 </h3>
 
 ![4E5WH-bike-collisions-in-sf-mission-neighborhood-2022](https://github.com/rae-wymer/Data_Journ_Final-Project.Wymer/assets/140004445/8dbf717a-788d-4cc4-9050-9ddd74cc9cfd)
 
-Link to data visualization
+Link to data visualization [Google](https://www.google.com/)
 
 <h3> 2023 </h3>
 
 ![6qb8u-bike-collisions-in-sf-mission-neighborhood-2023](https://github.com/rae-wymer/Data_Journ_Final-Project.Wymer/assets/140004445/41faf04b-81c9-469b-ad3f-cd2855322665)
 
-Link to data visualization
+Link to data visualization [Google](https://www.google.com/)
 
 <h2> Analysis 2: How severe have these bicycle collisions been?</h2>
 
@@ -100,7 +99,7 @@ Pivot Table
 
 ![6ikz0-collisions-by-year-and-injury (2)](https://github.com/rae-wymer/Data_Journ_Final-Project.Wymer/assets/140004445/40478e31-da0c-485a-a291-4d4c2ec8440b)
 
-Link to visualization
+Link to visualization [Google](https://www.google.com/)
 
 <h2> Analysis 3: What are the major collision types? </h2>
 
@@ -115,7 +114,7 @@ Pivot Table
 
 ![3GlV3-collision-types-for-2018-2023](https://github.com/rae-wymer/Data_Journ_Final-Project.Wymer/assets/140004445/642287d5-14f1-45c9-99b7-2b40c3fdc8d3)
 
-Link to visualization
+Link to visualization  [Google](https://www.google.com/)
 
 <h2> Analysis 3: Which streets are the most common sites for collisions? </h2>
 
@@ -130,8 +129,7 @@ Pivot Table
 
 ![rpsLW-most-common-primary-road-for-collisions-](https://github.com/rae-wymer/Data_Journ_Final-Project.Wymer/assets/140004445/25cdaefa-47f8-4ea3-999f-e10f59383bb0)
 
-
-Link to visualization
+Link to visualization  [Google](https://www.google.com/)
 
 <h2> Analysis 4: How many bicycle collisions occured each year since 2018? </h2>
 
@@ -145,8 +143,20 @@ Link to visualization
 
 ![r3yub-number-of-collisions-each-year-in-the-mission](https://github.com/rae-wymer/Data_Journ_Final-Project.Wymer/assets/140004445/524505a6-4cbf-4e98-8b04-89d00043ca2a)
 
-Link to visualization
+Link to visualization [Google](https://www.google.com/)
 
 <h2> Analusis 5: Which parties are often at fault in these collisions? </h2>
 
-*  I 
+*  I created a pivot table organizing the data of all collisions in my timeframe by the party_1/party at fault. I then sorted the data in decending order from most often at fault to least.
+*  I copied this data over into Datawrapper and created a table of this data.
+
+Pivot table
+
+<img width="215" alt="Screen Shot 2023-08-10 at 3 49 58 AM" src="https://github.com/rae-wymer/Data_Journ_Final-Project.Wymer/assets/140004445/e69ee195-a1c3-48e7-b590-5e8f5a28ef90">
+
+<h2> Party at fault in bicycle collisions </h2>
+
+![5PVNI-party-at-fault-in-bicycle-collisions (1)](https://github.com/rae-wymer/Data_Journ_Final-Project.Wymer/assets/140004445/be33b08b-3548-4794-a481-6f47791c30d8)
+
+Link to visualization [Google](https://www.google.com/)
+
