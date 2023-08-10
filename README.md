@@ -8,10 +8,17 @@ My data analysis focused on tracking collisions in San Francisco's Mission Distr
 As my story continues, I plan to build of the foundation of information and understanding my data anaylsis will give me by speaking with impacted parties. [add more]
 #
 <H2>Possible Sources </H2>
-1. Item 1-  Kimberly Leung -  Valencia Bikeway Improvements Project Manager for SFMTA 
-2. Item 2
-3. Item 3
--  Kimberly Leung 
--  Valencia Bikeway Improvements Project Manager for SFMTA 
+  
+    1. Kimberly Leung: Valencia Bikeway Improvements Project Manager for SFMTA 
+       - kimberly.leung@sfmta.com
+       Kimberly Leung works on the Liveable streets team for SF Municipal Transit Association and has been running the Valencia Bikeway Improvements Project. Her perspective would be key in understand how the project is being organized and excuted. Additionally, she would provide answers to any accountablity issues that come up when assesing and interviewing for the effectiveness of this project.  
+    2. Luke Borheimer: a local transportation advocate 
+        - lukebornheimer@gmail.com
+        Luke Borheimer has been openly against the Valencia Bikeway Improvements Project. He has been using his twitter to docuemnt issues and hazards along the street. He would be able to provide the prespective for cyclists using the new bike-lanes and share the public opinion on it.
+<H2> Aditional Sources </H2>
+City data: [Traffic Crashes](https://data.sfgov.org/Public-Safety/Traffic-Crashes-Resulting-in-Injuries/kn4t-hihx)
+This is a city map of all Traffic Crashes in San Francisco which resulted injury. If I was to expand this investigation to a citywide project I would use this data to map and specify exactly where injuries occured and which neighborhoods to focus on.  
+ 
+    
   
     
