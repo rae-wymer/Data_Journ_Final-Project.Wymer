@@ -29,11 +29,13 @@ SFMTA Funding:
 
 This document includes a breakdown of the entire SFMTA budget and shows exactly how much money is going into this Vizion Zero project. This would be a way to analyze and interrogate the effectiveness of these infrastructure projects and the work by SF Vision Zero. By comparing this with data on colisions I will add deeper level of analysis to see the impact that this money has had. This could open up a new line of inquiry based around these funding structures and where local funds are being directed.  
 
-# <h1>Data Used   
+# <h1>Data Used, cleaning, Visualizations   
   
   I based by data analysis off San Francisco city data through the [TransBASE Dashboard](https://transbase.sfgov.org/dashboard/dashboard.php)
 
   I edited and cleaned my data in this google sheet [here](https://docs.google.com/spreadsheets/d/1c-rnJEkCzaIL5axiYhGUhjITkPGYHJ_htd6-VfwlHWE/edit#gid=2053104748) . To clean my data I expanded the orignal date format into 3 new columns for Year, Month, Day using =LEFT(F2,4) to isolate the year, =MID(F2,5,2) to isolate the month and =RIGHT(F2,2) to isolate the day. Then I combined this into a single column using =DATE(G2,H2,I2) before formating into MM/DD/YYYY using Format>Number>Date>03/14/2012. I left-aligned jumbled cells. I also reformated the time from Ex: 1902 into 7:02 PM using =(TEXT(TIME(VALUE(LEFT(K2,2)),VALUE(RIGHT(K2,2)), 0),"h:mm AM/PM")). 
+
+To view all my visualizations in Datawrapper click [here](https://app.datawrapper.de/archive/recently-published)  
  
 <h2> Analysis 1: How do bicycle collisions compare year by year? Which parties are usually at fault in these collisions?</h2>
 
