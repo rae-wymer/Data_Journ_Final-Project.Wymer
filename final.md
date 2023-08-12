@@ -7,7 +7,7 @@ My data analysis focused on tracking collisions in San Francisco's Mission Distr
 
 As my story continues, I plan to build on the foundation of information and understanding my data anaylsis will provide by speaking with impacted parties and looking into the funding for traffic saftey programs. This will expand the scope of my story and allow me to hold the city government accountable for the policies.  I will use the data I have found on bike collisions and collision fatalities over the last 6 years to analyze and interrogate the effectiveness of these infrastructure projects and the work by SF Vision Zero. 
 
-#<H2>Possible Sources </H2>
+<H2>Possible Sources </H2>
 
 * Kimberly Leung: Valencia Bikeway Improvements Project Manager for SFMTA 
    - kimberly.leung@sfmta.com
