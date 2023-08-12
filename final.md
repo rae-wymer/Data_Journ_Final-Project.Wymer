@@ -59,6 +59,7 @@ Screenshot of Pivot Table: Party_1/Party at Fault
 
    ![bfJOZ-bike-collisions-in-sf-mission-neighborhood-2018 (2)](https://github.com/rae-wymer/Data_Journ_Final-Project.Wymer/assets/140004445/8b234972-aba6-421b-bcce-35bab6165e4c)
 
+To zoom in on map:
  [Link to data visualization](https://datawrapper.dwcdn.net/bfJOZ/4/)
 
 <h3> 2019 </h3>
@@ -71,24 +72,28 @@ Screenshot of Pivot Table: Party_1/Party at Fault
 
 ![eos7S-bike-collisions-in-sf-mission-neighborhood-2020](https://github.com/rae-wymer/Data_Journ_Final-Project.Wymer/assets/140004445/3092991b-5e57-4aa5-909b-cb0b326c5178)
 
+ To zoom in on map:
  [Link to data visualization](https://datawrapper.dwcdn.net/eos7S/1/)
 
 <h3> 2021 </h3>
 
 ![8nfLD-bike-collisions-in-sf-mission-neighborhood-2021](https://github.com/rae-wymer/Data_Journ_Final-Project.Wymer/assets/140004445/081d050f-a265-471b-992f-8b74cf6e3fa1)
 
+ To zoom in on map:
  [Link to data visualization](https://datawrapper.dwcdn.net/8nfLD/1/)
 
 <h3> 2022 </h3>
 
 ![4E5WH-bike-collisions-in-sf-mission-neighborhood-2022](https://github.com/rae-wymer/Data_Journ_Final-Project.Wymer/assets/140004445/8dbf717a-788d-4cc4-9050-9ddd74cc9cfd)
 
+ To zoom in on map:
  [Link to data visualization](https://datawrapper.dwcdn.net/4E5WH/1/)
 
 <h3> 2023 </h3>
 
 ![6qb8u-bike-collisions-in-sf-mission-neighborhood-2023](https://github.com/rae-wymer/Data_Journ_Final-Project.Wymer/assets/140004445/41faf04b-81c9-469b-ad3f-cd2855322665)
 
+To zoom in on map:
  [Link to data visualization](https://datawrapper.dwcdn.net/6qb8u/1/)
 
 <h2> Analysis 2: How severe have these bicycle collisions been?</h2>
