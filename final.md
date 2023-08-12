@@ -66,7 +66,8 @@ To zoom in on map:
 
 ![oAn1F-bike-collisions-in-sf-mission-neighborhood-2019](https://github.com/rae-wymer/Data_Journ_Final-Project.Wymer/assets/140004445/1321841a-86e9-4cef-b7e1-af3efa01a66f)
 
- [Link to data visualization](https://datawrapper.dwcdn.net/oAn1F/1/)
+To zoom in on map:
+[Link to data visualization](https://datawrapper.dwcdn.net/oAn1F/1/)
 
 <h3> 2020 </h3>
 
